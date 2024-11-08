@@ -21,9 +21,9 @@
         "rts": "none",
         "cts": "none",
         "dsr": "none",
-        "newline": "1000",
+        "newline": "16",
         "bin": "false",
-        "out": "interbyte",
+        "out": "count",
         "addchar": "",
         "responsetimeout": "10000"
     },
